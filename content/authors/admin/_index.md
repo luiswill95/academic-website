@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yi Patrick. Lu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master candidate of Medicine
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Tianjin Medical University General Hospital
+  url: "http://www.tjmugh.com.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include andrology, urolgoy, oncology, and statistical methodology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Male sexual dysfunction
+- Urologic oncology
+- Male infertility
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master in medicine
+    institution: Tianjin Medical University
+    year: 2018
+  - course: Bachelor in medicine
+    institution: Hebei Medical University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "luis_will@126.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
